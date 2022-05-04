@@ -1,0 +1,1 @@
+export const API_MODELS_URI = 'http://localhost:5000/models';
